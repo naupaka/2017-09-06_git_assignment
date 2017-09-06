@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # A script to setup a bioinformatics project folder
-# Naupaka Zimmerman nzimmerman@usfca.edu
-# August 30, 2017
+# Nila Le nle4@usfca.edu
+# September 6, 2017
 
 # Setup folder structure
 echo "Creating folder structure..."
