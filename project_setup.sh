@@ -6,8 +6,8 @@
 
 # Setup folder structure
 echo "Creating folder structure..."
-mkdir 2017-08-30_bioinformatics_project
-cd 2017-08-30_bioinformatics_project
+mkdir 2017-09-06_bioinformatics_project
+cd 2017-09-06_bioinformatics_project
 mkdir code data data/raw_data results results/figures results/tables
 
 echo "Creating empty README"
