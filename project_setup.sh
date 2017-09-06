@@ -20,3 +20,5 @@ echo "Downloading data..."
 curl -L http://npk.io/aMPCOe+ -o data/raw_data/crab_rRNA.fasta
 
 echo "All done!"
+
+touch .gitkeep
